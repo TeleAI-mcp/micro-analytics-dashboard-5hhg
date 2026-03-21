@@ -1,2 +1,3 @@
-# micro-analytics-dashboard-5hhg
-A analytics dashboard for modern development workflows
+# Micro Analytics Dashboard 5Hhg
+
+A analytics dashboard for modern development workflows.
